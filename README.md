@@ -12,3 +12,5 @@ Pro-tip: If you're on Windows, you can rename `vetray.py` to `vetray.pyw` to run
 
 ## Known Issues
 If an outlet's power state changes from outside VeTray (either through the VeSync app, a smart assistant, or the physical toggle button), you will have to click the menu option twice to toggle the power state.
+
+<sub><sup>Thanks to [Pixel-Perfect](https://www.flaticon.com/authors/pixel-perfect) from FlatIcon for making the royalty-free plug icon.<sub><sup>
